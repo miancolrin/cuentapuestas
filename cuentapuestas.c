@@ -33,6 +33,7 @@ Verisión 0.0.1 24 marzo 2017
 #include <string.h>
 #include <locale.h>
 #include <math.h>
+#include <windows.h>
 
 #define TRUE 1
 #define FALSE 0
@@ -61,7 +62,14 @@ void visualizarRegistro(char nombreRegistro[]);
 
 int main(){
 	
+	//Idioma español
 	setlocale(LC_ALL, "Spanish");
+	
+	//Título de ventana
+	SetConsoleTitle("Cuentapuestas");
+	
+	//Color de consola
+	system("color 80");
 	
 	char abrirONuevo;
 	char nombreRegistro[30];
