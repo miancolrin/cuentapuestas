@@ -12,3 +12,6 @@ Para Windows descargar cuentapuestas_WIN.c y Cuentapuestas.exe
 Para Mac/Linux descargar cuentapuestas_UNIX.c y cuentapuestas
 
 Creado por @miancolrin
+
+
+NOTA UNIX: Algunas veces el registro (fichero .dat) no se guarda en la ubicación del archivo ejecutable, sino en el directorio $HOME)
