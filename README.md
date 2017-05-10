@@ -9,9 +9,9 @@ Aquí está el código fuente del programa y un fichero precompilado
 
 Para Windows descargar cuentapuestas_WIN.c y Cuentapuestas.exe
 
-Para Mac/Linux descargar cuentapuestas_UNIX.c y cuentapuestas
+Para Mac descargar cuentapuestas_UNIX.c y cuentapuestas
 
 Creado por @miancolrin
 
 
-NOTA UNIX: Algunas veces el registro (fichero .dat) no se guarda en la ubicación del archivo ejecutable, sino en el directorio $HOME)
+NOTA Mac: Algunas veces el registro (fichero .dat) no se guarda en la ubicación del archivo ejecutable, sino en el directorio $HOME). No lo he probado en Linux, solo en macOS 10.12
