@@ -19,7 +19,7 @@ Todas las mejoras y sugerencias son bien recibidas.
 #   Creado por @miancolrin   #
 ##############################
 Verisión 0.0.1 22 abril 2017
-VERISÓN UNIX compatible con Mac y Linux
+VERISÓN para macOS, no lo he probado en Linux
 
 NOTA: En algunas ocasiones el registro (fichero .dat) no se guarda en la ruta donde
 se encuentra el ejecutable, sino en el directorio $HOME
